@@ -1,6 +1,6 @@
 ### Hola! Soy Rodolfo Meroi 👋
 <hr>
-<div align="center" dir="auto">
+<div dir="auto">
   <img height="180em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=RodoM&theme=ayu-mirage&show_icons=true">
   <img height="180em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodoM&theme=ayu-mirage&layout=compact">
 </div>
