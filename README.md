@@ -1,8 +1,8 @@
 ### Hola! Soy Rodolfo Meroi 👋
 <hr />
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RodoM&theme=ayu-mirage&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodoM&theme=ayu-mirage&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodoM&theme=ayu-mirage&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodoM&theme=ayu-mirage&layout=compact" />
 </div>
 <br />
 <div align="center">
